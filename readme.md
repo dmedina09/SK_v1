@@ -1,3 +1,3 @@
 # SK v1.0
-# SPLIT KEYBOARD
-# BASED ON CORNE/FOOSTAN
+* Split keyboard based on corne/foostan.
+* Vial compatbile (code needs improvement).
